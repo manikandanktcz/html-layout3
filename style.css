@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+header{
+    width:100%;
+   margin-bottom: 10px;
+    min-height: 55px;
+    line-height: 50px;
+   
+}
+.first{
+    width: 50%;
+    min-height:55px;
+    background-color: red;
+    float: left;
+    padding-left: 2%;
+}
+.second {
+    width: 50%;
+    min-height: 55px;
+    background-color: rgb(233, 166, 166);
+    float:right;
+    padding-left: 2%;
+
+}
+.header{
+    background-color: aqua;
+    width: 100%;
+    min-height: 100px;
+    text-align: center;
+    line-height: 100px;
+    margin-bottom: 10px;
+}
+.intro {
+    background-color: lightgrey;
+    min-height:80px;
+    width: 100%;
+    text-align: center;
+    line-height: 80px;
+    margin-bottom: 10px;
+
+}
+.parent{
+    width: 100%;
+    min-height: 400px;
+    margin-bottom: 10px;
+   
+}
+.child1{
+    width:30%;
+    min-height:400px;
+    background-color: lightcoral;
+    float: left;
+    text-align: center;
+        line-height: 400px;
+}
+.child2 {
+    width: 30%;
+    min-height: 400px;
+    background-color: lightcoral;
+    float: left;
+    text-align: center;
+        line-height: 400px;
+}
+.child3 {
+    width: 30%;
+    min-height: 400px;
+    background-color: lightcoral;
+    float: left;
+    text-align: center;
+        line-height: 400px;
+    
+}
+
+.child2{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.foot{
+    width: 100%;
+       background-color: blueviolet;
+        min-height: 55px;
+        text-align: center;
+        line-height: 50px;
+
+}
